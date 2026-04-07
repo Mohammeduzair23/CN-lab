@@ -87,6 +87,19 @@ Dest	Dist	NextHop
 3	0	3
 
 Do you want to find shortest path? (y/n): y
+
+:~/403/exp2$ ./exp2
+Enter the message:pda colleage of engg
+
+ After assigning Sequence Numbers:
+0:pda1: co2:lle3:age4: of5: en6:gg
+ 
+ After shuffling: 
+1: co4: of2:lle5: en3:age6:gg0:pda
+ 
+ After Sorting(Reconstructed Message):
+pda colleage of engg
+
 Enter source and destination nodes: 1 3
 Shortest path cost from 1 to 3 is: 5
 
